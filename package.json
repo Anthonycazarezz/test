@@ -1,0 +1,14 @@
+{
+  "name": "testo",
+  "version": "1.0.0",
+  "description": "no c",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
